@@ -17,3 +17,12 @@ elif operation=="%":
     print("result is:",number%number2)
 else:
     print("Invalid operation")
+    
+    
+    
+    
+    
+    
+    
+    
+    
